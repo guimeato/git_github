@@ -1,3 +1,1 @@
-Ola meus amigos
-Sou uma nova linha
-Oi meu bro
+2 + 2
